@@ -2,7 +2,7 @@
 ### April 2024
 ### Video Demo: https://www.youtube.com/watch?v=Y4h5m06fvh0
 ----
-Hello world! Welcome to my final CS50P project. My name is Edmond Mitar and I'm international business student living in the Netherlands. I am originally from Romania. 🇷🇴
+Hello world! Welcome to my final CS50P project. My name is Edmond Mitar and I'm an international business student living in the Netherlands. I am originally from Romania. 🇷🇴
 #### Description
 For this final project I've decided to build a website scraper that grabs all the HTML and CSS code from a given web page. The reason I decided to build this program was because I always wanted to test my front-end development skills locally on a web page.
 
